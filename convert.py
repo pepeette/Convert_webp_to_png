@@ -1,4 +1,4 @@
-!pip install webptools
+#pip install webptools
 from webptools import dwebp
 import os, glob
 os.chdir("./Product Group images")
